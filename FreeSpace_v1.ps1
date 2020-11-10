@@ -1,5 +1,5 @@
 # Script to calculate the free space of any logical disk 
-write-host "--==[ IceFreeSpace ]==--"
+write-host "--==[ FreeSpace ]==--"
 write-host "[+] Calcul the free space of any disk
 and the cumulated free space in this computer.
 "

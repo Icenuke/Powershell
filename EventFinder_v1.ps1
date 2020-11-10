@@ -1,5 +1,5 @@
 # this script search the event of application
-echo "--==[ IceEventFinder ]==--"
+echo "--==[ EventFinder ]==--"
 echo ""
 
 echo "[+] List of event log:"
