@@ -1,0 +1,9 @@
+[ Powershell Cheatsheets ]
+	[+] HTTP request:
+		- $body = @{"The Body"}
+		- Invoke-WebRequest -Uri https://1.1.1.1:666/ -Method POST -Body $body;
+
+	[+] Adding registry key:
+		- reg add "HKLM\The\Registry\Path\Here" /v "KeyName" /d "TheDataOfKey"
+
+	
