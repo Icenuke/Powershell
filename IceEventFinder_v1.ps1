@@ -2,8 +2,6 @@
 echo "--==[ IceEventFinder ]==--"
 echo ""
 
-echo "/!\ "
-
 echo "[+] List of event log:"
 
 $cnt = 0
