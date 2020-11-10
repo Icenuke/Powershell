@@ -1,0 +1,8 @@
+Encode powershell command:
+	-> $text = "CommandLine"
+	-> $bytes = [System.Text.Encoding]::Unicode.GetBytes($text)
+	-> $encoded = [Convert]::ToBase64String($bytes)
+
+Decode powershell command:
+	-> $b64text = "QwBvAG0AbQBhAG4AZABMAGkAbgBlAA=="
+	-> $decode = [System.Text.Encoding]::Unicode.GetString([System.Convert]::FromBase64String($encoded))
