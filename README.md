@@ -13,20 +13,20 @@
 ### Registry:
 > * HKCU - HKEY_CURRENT_USER:
 >>> Software\Microsoft\Windows\CurrentVersion\Run<br>
-` Execute script/prog at boot`
+` Execute script/prog at boot`<br>
 >>> Software\Microsoft\Windows\CurrentVersion\RunOnce<br>
-` Execute script/prog once time at reboot`
+` Execute script/prog once time at reboot`<br>
 > * HKLM - HKEY_LOCAL_MACHINE:
 >>> Software\Microsoft\Windows\CurrentVersion\Run<br>
-` Execute script/prog at boot`
+` Execute script/prog at boot`<br>
 >>> Software\Microsoft\Windows\CurrentVersion\RunOnce<br>
-` Execute script/prog once time at reboot`
+` Execute script/prog once time at reboot`<br>
 > * HKROOT - HKEY_ROOT: 
 >>> \*\shell<br>
-` Add shortcut/command line a for file with mouse right click`
+` Add shortcut/command line a for file with mouse right click`<br>
 >>> Directory\Background\shell<br>
 ` Add shortcut/command line for a directory with mouse right click`
 ### Path:
-> * Start binaries at boot 
+> * Start binaries at boot: 
 >>> `C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp`<br>
 >>> `C:\Users\[USER]\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup`<br>
