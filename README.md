@@ -1,6 +1,6 @@
 # --==[ Powershell ]==--
 ## Description:
-> That are differents Powershell scripts and Cheatsheets
+> That are differents Powershell scripts and Windows Cheatsheets
 
 ## Files:
 > * CIR_v1.ps1 					-> Recorde and export many informations from the computer
