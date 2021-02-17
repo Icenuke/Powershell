@@ -24,7 +24,7 @@
 > * HKROOT - HKEY_ROOT: 
 >>> \*\shell<br>
 ` Add shortcut/command line a for file with mouse right click`
->>> Directory\Background\shell<br
+>>> Directory\Background\shell<br>
 ` Add shortcut/command line for a directory with mouse right click`
 ### Path:
 > * Start binaries at boot 
